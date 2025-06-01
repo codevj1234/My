@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1>Test Website</h1>
+        <h2>Stuff i've learnt so far</h2>
+        <ol>
+            <li>heading element</li>
+            <li>paragraph,void,listing</li>
+            <li>anchor,image,filepath</li>
+        </ol>
+        <h2>using anchor tags</h2>
+        <ol>
+            <li><a href="https://www.youtube.com"><img src="https://static.vecteezy.com/system/resources/thumbnails/011/998/173/small_2x/youtube-icon-free-vector.jpg"/></a></li>
+            <li><a href="https://www.google.com">google</a></li>
+        </ol>
+        <h2>using different html files</h2>
+        <ol>
+            <li><a href="./about page">about page</a></li>
+        </ol>
+    </body>
+</html>
+
